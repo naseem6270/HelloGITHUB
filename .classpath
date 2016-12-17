@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/AutoItX4Java.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/glazedlists.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/imap.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/itextpdf-5.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/itextpdf-5.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/itext-pdfa-5.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/itext-pdfa-5.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/itext-pdfa-5.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/itext-xtra-5.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/itext-xtra-5.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/itext-xtra-5.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/jacob.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/jnlp.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/mail.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/org.testng.eclipse_6.8.6.20141201_2240.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/swingx-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/My_Data/iTIUM/iTIUM_WS/iTIUM_JAVA/Framework Jar Files/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
